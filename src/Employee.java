@@ -68,7 +68,7 @@ public class Employee extends Person {
 		this.emailAddress = emailAddress;
 		this.initialCapital = initialCapital;
 	}
-
+	
 	public String getInitials() {
 		String result = "";
 		if (!firstName.isEmpty()) {

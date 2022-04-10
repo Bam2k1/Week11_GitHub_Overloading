@@ -1,6 +1,6 @@
 
 public class Faculty extends Employee {
-	
+
 	String subject;
 	
 	public static void main(String[] args) {

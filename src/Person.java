@@ -4,7 +4,6 @@
  *
  */
 public class Person {
-
 	/**
 	 * This is the first name of the person.
 	 */
